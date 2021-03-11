@@ -1,1 +1,1 @@
-* [繁體中文](/)
+* [简体中文](zh_cn/ ':ignore :target=_self')

@@ -1,0 +1,1 @@
+* [繁體中文](../ ':ignore :target=_self')
