@@ -10,7 +10,7 @@ TTFGame開放平臺是基於TTFGame生態與區塊鏈所打造的開放性遊戲
 
 # 2 平臺準備
 
-通過平臺的[註冊連結](http://ttftest.dashgame.com/admin/index/merchat_register1)，或者點擊[平臺首頁](http://ttftest.dashgame.com)的“沒有帳號？立即註冊”按鈕進入帳號註冊頁面，創建一個開發者帳號。
+通過平臺的[註冊連結](http://ttftest.dashgame.com/admin/index/merchat_register1 ':target=_blank')，或者點擊[平臺首頁](http://ttftest.dashgame.com ':target=_blank')的“沒有帳號？立即註冊”按鈕進入帳號註冊頁面，創建一個開發者帳號。
 
 ![帳號註冊](./img/ttfgame_doc_img_001.png)
 
@@ -22,7 +22,7 @@ TTFGame開放平臺是基於TTFGame生態與區塊鏈所打造的開放性遊戲
 
 ![preview](./img/ttfgame_preview_03.png)
 
-註冊帳號結束後，使用註冊時的郵箱和密碼登錄到[平臺首頁](http://ttftest.dashgame.com)登錄進入後臺。新帳號登錄平臺時，會因為帳號未審核進入控制台頁面時收到提示.
+註冊帳號結束後，使用註冊時的郵箱和密碼登錄到[平臺首頁](http://ttftest.dashgame.com ':target=_blank')登錄進入後臺。新帳號登錄平臺時，會因為帳號未審核進入控制台頁面時收到提示.
 
 ![未審核控制台](../img/ttfgame_doc_img_057.png)
 

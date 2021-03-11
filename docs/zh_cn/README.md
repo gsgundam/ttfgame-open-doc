@@ -10,7 +10,7 @@ TTFGame开放平台是基于TTFGame生态与区块链所打造的开放性游戏
 
 # 2 平台准备
 
-通过平台的[注册链接](http://ttftest.dashgame.com/admin/index/merchat_register1)，或者点击[平台首页](http://ttftest.dashgame.com)的“没有账号？立即注册”按钮进入账号注册页面，创建一个开发者账号。
+通过平台的[注册链接](http://ttftest.dashgame.com/admin/index/merchat_register1 ':target=_blank')，或者点击[平台首页](http://ttftest.dashgame.com ':target=_blank')的“没有账号？立即注册”按钮进入账号注册页面，创建一个开发者账号。
 
 ![账号注册](../img/ttfgame_doc_img_001.png)
 
@@ -22,7 +22,7 @@ TTFGame开放平台是基于TTFGame生态与区块链所打造的开放性游戏
 
 ![preview](../img/ttfgame_preview_03.png)
 
-注册账号结束后，使用注册时的邮箱和密码登录到[平台首页](http://ttftest.dashgame.com)登录进入后台。新账号登录平台时，会因为账号未审核进入控制台页面时收到提示.
+注册账号结束后，使用注册时的邮箱和密码登录到[平台首页](http://ttftest.dashgame.com ':target=_blank')登录进入后台。新账号登录平台时，会因为账号未审核进入控制台页面时收到提示.
 
 ![未审核控制台](../img/ttfgame_doc_img_057.png)
 
